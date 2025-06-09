@@ -1,0 +1,17 @@
+[
+    {
+        "domain": ".facebook.com",
+        "name": "c_user",
+        "value": "EXAMPLE_USER_ID"
+    },
+    {
+        "domain": ".facebook.com",
+        "name": "xs",
+        "value": "EXAMPLE_XS_VALUE"
+    },
+    {
+        "domain": ".facebook.com",
+        "name": "fr",
+        "value": "EXAMPLE_FR_VALUE"
+    }
+]

@@ -1,0 +1,7 @@
+{
+    "message": "your message",
+    "delay": 100,
+    "instances": 18,
+    "threadId": "your thread id",
+    "messagesPerSecond": 30
+}

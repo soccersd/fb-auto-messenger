@@ -1,0 +1,20 @@
+{
+  "name": "facebook-unofficial-bot",
+  "version": "1.0.0",
+  "description": "Facebook Messenger bot using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot",
+    "puppeteer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.9.0"
+  }
+}
